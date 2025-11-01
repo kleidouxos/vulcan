@@ -12,9 +12,11 @@ layout: page
   </div>
   <div class="col-md-4">  
 
-    {% include index/time.html %}
+    {% include index/featured-terms.html field="audience" title="Audiences" btn-color="primary" %}
 
-    {% include index/featured-terms.html field="audience" title="Top Subjects" btn-color="primary" %}
+    {% include index/featured-terms.html field="genre" title="Genres" btn-color="primary" %}
+
+    {% include index/time.html %}
 
   </div>
   <div class="col-md-12">
