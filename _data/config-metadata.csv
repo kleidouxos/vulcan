@@ -3,7 +3,10 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+genre,Genre,true
+audience,Audience,true
 subject,Subjects,true
-source,Source
-type,Type,
-format,Format,
+publisher,Publisher,
+serial_title,Serial Name,
+url,URL,false,true
+database,Database,

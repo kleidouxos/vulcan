@@ -3,4 +3,6 @@ title,true,true
 date,true,true
 creator,true,false
 description,true,true
+genre,true,true
+audience,true,true
 subject,true,true
