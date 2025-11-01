@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-subject,,true
-type,,true
-audience,,true
+subject,Subject,TRUE,,Subject
+type,Type,TRUE,,Type
+audience,Audience,TRUE,,Audience

@@ -1,11 +1,11 @@
 field,display_name,browse_link,external_link
-title,Title,
-author,Author,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-type,Type,
-audience,Audience
-publisher,Publisher
-serial,Serial Title
-url,URL
+title,Title,,
+author,Author,,
+date,Date Created,,
+description,Description,,
+subject,Subjects,TRUE,
+type,Type,TRUE,
+audience,Audience,TRUE,
+publisher,Publisher,,
+serial,Serial Title,,
+url,URL,,TRUE
