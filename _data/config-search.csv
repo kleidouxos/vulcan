@@ -1,5 +1,7 @@
 field,index,display
 title,true,true
-author,true,false
+date,true,true
+creator,true,false
 description,true,true
-image_alt_text,true,false
+subject,true,true
+location,true,false
