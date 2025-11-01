@@ -12,22 +12,16 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Planet Vulcan
+## About the Collection
 
-Intro to history
+This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
-## The Afterlives of Scientific Ideas
+- a CSV of collection metadata
+- a folder of JPG images or PDF documents
 
-intro: science as culture
+The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-## About This Collection
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-This digital library was created by by Elizabeth-Marie Helms, a graduate student in Library Science and the History and Philosophy of Science and Medicine at Indiana University. The project began as a term project for [John A. Walsh](https://jawalsh.github.io/)'s Digital Libraries. The library is built upon [CollectionBuilder](https://collectionbuilder.github.io/).
-
-## Further Reading
-
-Baum, Richard. *In Search of Planet Vulcan: The Ghost in Newton’s Clockwork Universe*. Plenum Press, 1997.
-
-Hanson, Norwood Russell. “Leverrier: The Zenith and Nadir of Newtonian Mechanics.” *Isis* 52, no. 3 (1962): 359–78.
-
-Levenson, Thomas. *The Hunt for Vulcan: ...And How Albert Einstein Destroyed a Planet, Discovered Relativity, and Deciphered the Universe*. First edition. Random House, 2015.
+<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+{% include cb/about_the_about.md %} 
