@@ -24,14 +24,11 @@ function makeCard(obj) {
     var card = '<div class="browse-card row col-lg-12 col-md-12 col-sm-12 mb-2">';
     
     // title block
-    card += '<div class="item card-body col-lg-4"><h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3></div>';
+    card += '<div class="item card-body col-lg-8"><h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
+    card += '<strong>Date: </strong>' + obj.date + '<br>'
+    card += '<strong>Author: </strong>' + obj.creator
+    card += '</p></div>';
     
-    // author, date block
-    card += '<div class="item card-body col-lg-4"><p class="card-text">'
-    card += '<strong>Date:</strong>' + obj.date + '<br>'
-    card += '<strong>Creator:</strong>' + obj.creator + '<br>'
-    card += '</p></div>'
-
     // Buttons
     card += '<div class="item col-lg-4"><p class="card-text">'
     {% for f in fields %}{% unless f.hidden == 'true' %}
