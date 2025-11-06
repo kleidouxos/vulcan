@@ -81,7 +81,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
 
     /* function to add item metadata */
     function generateMetadata(item) {
-        var fields = '<dl>';
+        var fields = '<dl class="row">';
         {% for f in fields %}{% if f.browse_link == "true" %}
         if (item[{{ f.field | jsonify }}]) {
             var topics = item[{{ f.field | jsonify }}].split(';');
