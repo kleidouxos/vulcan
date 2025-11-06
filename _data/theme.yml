@@ -94,11 +94,9 @@ navbar-background: bg-dark
 bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
-base-font-size: 1.2em
+base-font-size: 1.0em
 text-color: "#240101"
 link-color: "#593259"
-#base-font-family: '"Forum", serif' # comment out for bootstrap defaults. e.g. Roboto
-#font-cdn: '<link href="https://fonts.googleapis.com/css2?family=Forum&display=swap" rel="stylesheet">' # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 base-font-family: '"Ledger", serif'
 font-cdn: '<link href="https://fonts.googleapis.com/css2?family=Forum&family=Ledger&display=swap" rel="stylesheet">'
 
