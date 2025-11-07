@@ -25,9 +25,9 @@ function makeCard(obj) {
     
     // Title block
     card += '<div class="item card-body col-lg-8"><h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
-    card += '<p><strong>Date: </strong>' + obj.date + '<br>'
-    {% if obj.creator!=null %}
-        card += '<strong>Author: </strong>' + obj.creator
+    card += '<p><strong>Date: </strong>' + obj.date
+    {% if obj.creator != "" %}
+        card += '<br><strong>Author: </strong>' + obj.creator
     {% endif %}
     card += '</p></div>';
     
@@ -35,7 +35,6 @@ function makeCard(obj) {
     card += '<div class="browse-subjects item col-lg-4"><p class="card-text">'
     {% for f in fields %}{% unless f.hidden == 'true' %}
         if(obj[{{ f.field | jsonify }}]) {
-            // start subject buttons
             {% if f.btn == 'true' %}
                 var btns = obj[{{ f.field | jsonify }}].split(";");
                 for (var i = 0, len = btns.length; i < len; i++) {
