@@ -11,15 +11,19 @@ credits: false
 ## Planet Vulcan
 
 Intro to history : Leverrier and Neptune, Vulcan, brief sequence of sightings
+Very public claim-and-retraction cycle
 
 ## The Afterlives of Scientific Ideas
 
 intro: science as culture
-problems with the "deficit model", metaphor, public needs...
+problems with the "deficit model" and identity of science and information
+Public: metaphor, myth, needs, identity and ideology...
 
 ## About This Collection
 
-This digital library was created by by Elizabeth-Marie Helms, a graduate student in Library Science and The History and Philosophy of Science and Medicine at Indiana University. The library began as a term project for [John A. Walsh](https://jawalsh.github.io/)'s Digital Libraries course. This site is built upon [CollectionBuilder](https://collectionbuilder.github.io/).
+__Elizabeth-Marie Helms__ (OrcID: [0009-0007-3344-4280](https://orcid.org/0009-0007-3344-4280)) is a graduate student in Library Science and The History and Philosophy of Science and Medicine at Indiana University. A former middle school teacher, she currently researches the history of the public understanding of science.
+
+This digital library is built upon [CollectionBuilder](https://collectionbuilder.github.io/) source. It began as a term project for [John A. Walsh](https://jawalsh.github.io/)'s Digital Libraries course.
 
 ## Further Reading
 

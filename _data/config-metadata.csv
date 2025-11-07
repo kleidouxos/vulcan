@@ -8,5 +8,6 @@ audience,Audience,true
 subject,Subjects,true
 publisher,Publisher,
 serial_title,Serial Name,
+location,Location
 url,URL,false,true
 database,Database,

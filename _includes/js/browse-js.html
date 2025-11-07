@@ -23,13 +23,15 @@ function makeCard(obj) {
     // Begin card...
     var card = '<div class="browse-card row col-lg-12 col-md-12 col-sm-12 mb-2">';
     
-    // title block
+    // Title block
     card += '<div class="item card-body col-lg-8"><h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
     card += '<p><strong>Date: </strong>' + obj.date + '<br>'
-    card += '<strong>Author: </strong>' + obj.creator
+    {% if obj.creator!+"" %}
+        card += '<strong>Author: </strong>' + obj.creator
+    {% endif %}
     card += '</p></div>';
     
-    // Buttons
+    // Subject buttons
     card += '<div class="browse-subjects item col-lg-4"><p class="card-text">'
     {% for f in fields %}{% unless f.hidden == 'true' %}
         if(obj[{{ f.field | jsonify }}]) {
