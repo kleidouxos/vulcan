@@ -21,7 +21,7 @@ Public: metaphor, myth, needs, identity and ideology...
 
 ## About This Collection
 
-__Elizabeth-Marie Helms__ (OrcID: [0009-0007-3344-4280](https://orcid.org/0009-0007-3344-4280)) is a graduate student in Library Science and The History and Philosophy of Science and Medicine at Indiana University. A former middle school teacher, she currently researches the history of the public understanding of science.
+__Elizabeth-Marie Helms__ (ORCiD: [0009-0007-3344-4280](https://orcid.org/0009-0007-3344-4280)) is a graduate student in Library Science and The History and Philosophy of Science and Medicine at Indiana University. A former middle school teacher, she currently researches the history of the public understanding of science.
 
 This digital library is built upon [CollectionBuilder](https://collectionbuilder.github.io/) source. It began as a term project for [John A. Walsh](https://jawalsh.github.io/)'s Digital Libraries course.
 

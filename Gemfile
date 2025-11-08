@@ -12,3 +12,5 @@ gem "github-pages"
 # gem 'logger'
 # gem 'base64'
 # gem 'ostruct'
+
+# gem "colorator", "~> 1.1"
