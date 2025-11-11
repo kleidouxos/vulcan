@@ -17,7 +17,10 @@ Very public claim-and-retraction cycle
 
 intro: science as culture
 problems with the "deficit model" and identity of science and information
+Historians of science rarely read histories of newspapers and publishing
+Definition of science - interest, funding, growth, induction of young scientists, fame
 Public: metaphor, myth, needs, identity and ideology...
+Vulcan chosen because of retraction
 
 ## About This Collection
 
