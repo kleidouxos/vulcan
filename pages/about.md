@@ -8,6 +8,8 @@ toc: true
 
 {% include feature/nav-menu.html sections="Planet Vulcan;The Afterlives of Scientific Ideas;About This Collection;Further Reading" %}
 
+{% include feature/image.html objectid="vul039" width="75" %}
+
 ## Planet Vulcan
 
 In 1846, the French astronomer Urbain Le Verrier used data from the orbital irregularities of the planet Uranus to predict an eighth planet, which was soon sighted and today we call Neptune. Satisfied with his methods, Le Verrier turned his attention to the orbit Mercury, which displayed similar irregularities that couldn't be explained with Newtonian mechanics. He predicted another planet, and in 1859, a French country physician and amateur astronomy Edmond Modeste Lescarbault witnessed an object traversing across the sun. After inspecting the country doctor's instruments, Le Verrier declared the object fit his prediction. It was named Vulcan, following speculation of another french astronomer, Jacques Babinet, in 1846.
