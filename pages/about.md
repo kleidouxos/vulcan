@@ -10,9 +10,11 @@ credits: false
 
 ## Planet Vulcan
 
-In 1846, the French astronomer Urbain Le Verrier used data from the orbital irregularities of the planet Uranus to predict an eighth planet, which was soon sighted and today we call Neptune. Satisfied with his methods, Le Verrier turned his attention to the orbit Mercury, which displayed similar irregularities that couldn't be explained with Newtonian mechanics. He predicted another planet, and in 1859, a French country physician and amateur astronomy Edmond Modeste Lescarbault witnessed an object traversing across the sun. After inspecting the country doctor's instruments, Le Verrier declared the object to be Vulcan. But the size and motion of Lescarbault's Vulcan didn't complete the mathematical picture, and the profession remaned skeptical.
+In 1846, the French astronomer Urbain Le Verrier used data from the orbital irregularities of the planet Uranus to predict an eighth planet, which was soon sighted and today we call Neptune. Satisfied with his methods, Le Verrier turned his attention to the orbit Mercury, which displayed similar irregularities that couldn't be explained with Newtonian mechanics. He predicted another planet, and in 1859, a French country physician and amateur astronomy Edmond Modeste Lescarbault witnessed an object traversing across the sun. After inspecting the country doctor's instruments, Le Verrier declared the object fit his prediction. It was named Vulcan, following speculation of another french astronomer, Jacques Babinet, in 1846.
 
-For decades each eclipse brought out Vulcan-spotters with varying results. In the late 19th century, scientists were only beginning to theorize on sun spots and solar flares and to speculate on the chemical composition of astronomical bodies. This was also an era of intense and competitive hunting for asteroids, which at the time were known as minor planets. One of these, University of Michigan's James Craig Watson, claimed to have spotted Vulcan in 1878, reviving interest again.
+Yet the size and motion of Lescarbault's Vulcan didn't complete the mathematical picture. Emmanuel Liais, a French astronomer working in Brazil in 1859, had been observing the sun at the same time as Lescarbault and he'd seen nothing. The profession remained skeptical.
+
+For decades each eclipse brought out Vulcan-spotters with varying results. In the late 19th century, scientists were only beginning to theorize on sun spots and solar flares and to speculate on the chemical composition of astronomical bodies. This was also an era of intense and competitive hunting for asteroids, which at the time were known as minor planets. One of these, University of Michigan's James Craig Watson, claimed to have spotted Vulcan in 1878, reviving interest again. Lewis Swift in Rochester, New York, independently confirmed Watson's claim.
 
 In a 1919 eclipse, the British astronomers Frank Watson Dyson and Arthur Stanley Eddington returned to the problem of Mercury to find proof of general relativity. Their observations were widely heralded for confirming Einstein's work and for explaining the procession of Mercury. Thereafter, the search for a "Planet X" focused on the outer bounds of the solar system, and eventually peaked with the discovery of Pluto in 1930.
 
@@ -40,7 +42,11 @@ Sources include:
 
 ## Further Reading
 
+Baron, David. *American Eclipse: A Nation's Epic Race to Catch the Shadow of the Moon and Win the Glory of the World*. Liveright, 2017.
+
 Baum, Richard. *In Search of Planet Vulcan: The Ghost in Newton’s Clockwork Universe*. Plenum Press, 1997.
+
+Brown, Kevin. “Vulcan’s Muddy Light.” University of Michigan Heritage Project, n.d. Accessed October 31, 2025. [https://heritage.umich.edu/stories/vulcans-muddy-light/](https://heritage.umich.edu/stories/vulcans-muddy-light/).
 
 Hanson, Norwood Russell. “Leverrier: The Zenith and Nadir of Newtonian Mechanics.” *Isis* 52, no. 3 (1962): 359–78.
 
