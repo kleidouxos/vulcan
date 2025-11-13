@@ -8,8 +8,6 @@ toc: true
 
 {% include feature/nav-menu.html sections="Planet Vulcan;The Afterlives of Scientific Ideas;About This Collection;Further Reading" %}
 
-{% include feature/image.html objectid="vul039" width="75" %}
-
 ## Planet Vulcan
 
 In 1846, the French astronomer Urbain Le Verrier used data from the orbital irregularities of the planet Uranus to predict an eighth planet, which was soon sighted and today we call Neptune. Satisfied with his methods, Le Verrier turned his attention to the orbit Mercury, which displayed similar irregularities that couldn't be explained with Newtonian mechanics. He predicted another planet, and in 1859, a French country physician and amateur astronomy Edmond Modeste Lescarbault witnessed an object traversing across the sun. After inspecting the country doctor's instruments, Le Verrier declared the object fit his prediction. It was named Vulcan, following speculation of another french astronomer, Jacques Babinet, in 1846.
@@ -27,6 +25,8 @@ The Vulcan saga is a prominent example of a very public claim-and-retraction cyc
 This collection was organized under the philosophy that the public understanding of science has a place in the history of science and that the latter field benefits from considering how science operates as culture. Topics such as the education of young scientists, the motivations of scientists, and the sourcing of funding and instruments all rely in part on the interests and perceptions of non-specialists. Outside of its own magic circle of logic, science exists as metaphor, mythology, ideology, identity, curiosity, and need.
 
 Vulcan, the planet that never was, takes on many guises in this library. It was modernity itself, and it was a Victorian mistake. At once a symbol of hope, failure, and success. I invite you to consider these lenses as you peruse this digital library. 
+
+{% include feature/image.html objectid="vul039" width="50" %}
 
 ## About This Collection
 
