@@ -24,14 +24,6 @@ This collection was organized under the philosophy that the public understanding
 
 Vulcan, the planet that never was, takes on many guises in this library. It was modernity itself, and it was a Victorian mistake. At once a symbol of hope, failure, and success. I invite you to consider these lenses as you peruse this digital library. 
 
-## Further Reading
-
-Baum, Richard. *In Search of Planet Vulcan: The Ghost in Newton’s Clockwork Universe*. Plenum Press, 1997.
-
-Hanson, Norwood Russell. “Leverrier: The Zenith and Nadir of Newtonian Mechanics.” *Isis* 52, no. 3 (1962): 359–78.
-
-Levenson, Thomas. *The Hunt for Vulcan: ...And How Albert Einstein Destroyed a Planet, Discovered Relativity, and Deciphered the Universe*. Random House, 2015.
-
 ## About This Collection
 
 __The author__: Elizabeth-Marie Helms (ORCiD: [0009-0007-3344-4280](https://orcid.org/0009-0007-3344-4280)) is a graduate student in Library Science and The History and Philosophy of Science and Medicine at Indiana University. A former middle school teacher, she currently researches the history of the public understanding of science.
@@ -45,3 +37,11 @@ Sources include:
 * [Gallica (Bibliothèque nationale de France)](https://gallica.bnf.fr/)
 * [HathiTrust](https://www.hathitrust.org/)
 * [The Library of Congress](https://www.loc.gov/)
+
+## Further Reading
+
+Baum, Richard. *In Search of Planet Vulcan: The Ghost in Newton’s Clockwork Universe*. Plenum Press, 1997.
+
+Hanson, Norwood Russell. “Leverrier: The Zenith and Nadir of Newtonian Mechanics.” *Isis* 52, no. 3 (1962): 359–78.
+
+Levenson, Thomas. *The Hunt for Vulcan: ...And How Albert Einstein Destroyed a Planet, Discovered Relativity, and Deciphered the Universe*. Random House, 2015.
