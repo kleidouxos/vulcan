@@ -2,6 +2,7 @@
 title: Audiences
 layout: about
 permalink: /audiences.html
+toc: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
