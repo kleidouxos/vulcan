@@ -6,6 +6,8 @@ toc: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/nav-menu.html sections="Academic;Student;Popular;Esoteric" %}
+
 ## The Audiences of Science Communication
 
 The purpose of this collection was to bring together the diverse audiences of 19th century science communication. A vocabulary was needed to identify and catalog these audiences for browsing purposes. This page servers to justify this language, which began with a cursory overview of the collected references and has been refined and expanded as patterns emerged.
