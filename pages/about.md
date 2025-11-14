@@ -10,7 +10,7 @@ toc: true
 
 ## Planet Vulcan
 
-In 1846, the French astronomer Urbain Le Verrier compiled data from the orbital irregularities of the planet Uranus to calculate an eighth planet. That planet was soon sighted within a degree of his estimate, and today we call Neptune. Satisfied with his methods, Le Verrier turned his attention to the orbit Mercury, for which his analysis proved similar irregularities that couldn't be explained with Newtonian mechanics. In 1859 he announced his prediction of another planet between Mercury and the Sun. 
+In 1846, the French astronomer Urbain Leverrier compiled data from the orbital irregularities of the planet Uranus to calculate an eighth planet. That planet was soon sighted within a degree of his estimate, and today we call Neptune. Satisfied with his methods, Leverrier turned his attention to the orbit Mercury, for which his analysis proved similar irregularities that couldn't be explained with Newtonian mechanics. In 1859 he announced his prediction of another planet between Mercury and the Sun. 
 
 Within the year, a French country physician and amateur astronomy Edmond Modeste Lescarbault witnessed an dark spot traversing across the sun. After inspecting the country doctor's instruments, Le Verrier declared the object fit his prediction. This object was named Vulcan. Yet the size and motion of Lescarbault's Vulcan didn't complete the mathematical picture. Furthermore, Emmanuel Liais, a French astronomer working in Brazil in 1859, had been observing the sun at the same time as Lescarbault and he'd seen nothing.
 
@@ -38,7 +38,7 @@ __The author__: Elizabeth-Marie Helms (ORCiD: [0009-0007-3344-4280](https://orci
 
 __The library__: This digital library is built upon [CollectionBuilder](https://collectionbuilder.github.io/) source. It began as a term project for [John A. Walsh](https://jawalsh.github.io/)'s Digital Libraries course.
 
-Except where indicated, the images and texts in this collection are in the publid domain within the United States. Items have been sourced from:
+Except where indicated, the item images and texts in this collection are in the public domain within the United States. Items have been sourced from:
 * [America's Historic Newspapers (Readex)](https://www.readex.com/)
 * [Gallica (Bibliothèque nationale de France)](https://gallica.bnf.fr/)
 * [HathiTrust](https://www.hathitrust.org/)
