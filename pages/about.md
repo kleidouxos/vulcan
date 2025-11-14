@@ -34,9 +34,9 @@ Vulcan, the planet that never was, takes on many guises in this library. It was 
 
 ## About This Collection
 
-__The author__: Elizabeth-Marie Helms (ORCiD: [0009-0007-3344-4280](https://orcid.org/0009-0007-3344-4280)) is a graduate student in Library Science and The History and Philosophy of Science and Medicine at Indiana University. A former middle school teacher, she currently researches the history of the public understanding of science.
+__The author__: [Elizabeth-Marie Helms](https://orcid.org/0009-0007-3344-4280) is a graduate student in Library Science and The History and Philosophy of Science and Medicine at Indiana University. A former middle school teacher, she currently researches the history of the public understanding of science.
 
-__The library__: This digital library is built upon [CollectionBuilder](https://collectionbuilder.github.io/) source. It began as a term project for [John A. Walsh](https://jawalsh.github.io/)'s Digital Libraries course.
+__The library__: This digital library is built upon the [CollectionBuilder](https://collectionbuilder.github.io/) framework. It began as a term project for [John A. Walsh](https://jawalsh.github.io/)'s Digital Libraries course.
 
 Except where indicated, the item images and texts in this collection are in the public domain within the United States. Items have been sourced from:
 * [America's Historic Newspapers (Readex)](https://www.readex.com/)
