@@ -8,8 +8,6 @@ toc: true
 
 {% include feature/nav-menu.html sections="Planet Vulcan;The Afterlives of Scientific Ideas;About This Collection;Further Reading" %}
 
-{% include feature/image.html objectid="vul039" width="50" %}
-
 ## Planet Vulcan
 
 In 1846, the French astronomer Urbain Le Verrier used data from the orbital irregularities of the planet Uranus to predict an eighth planet, which was soon sighted and today we call Neptune. Satisfied with his methods, Le Verrier turned his attention to the orbit Mercury, which displayed similar irregularities that couldn't be explained with Newtonian mechanics. He predicted another planet, and in 1859, a French country physician and amateur astronomy Edmond Modeste Lescarbault witnessed an object traversing across the sun. After inspecting the country doctor's instruments, Le Verrier declared the object fit his prediction. It was named Vulcan, following speculation of another french astronomer, Jacques Babinet, in 1846.
@@ -19,6 +17,9 @@ Yet the size and motion of Lescarbault's Vulcan didn't complete the mathematical
 For decades each eclipse brought out Vulcan-spotters with varying results. In the late 19th century, scientists were only beginning to theorize on sun spots and solar flares and to speculate on the chemical composition of astronomical bodies. This was also an era of intense and competitive hunting for asteroids, which at the time were known as minor planets. One of these, University of Michigan's James Craig Watson, claimed to have spotted Vulcan in 1878, reviving interest again. Lewis Swift in Rochester, New York, independently confirmed Watson's claim.
 
 In a 1919 eclipse, the British astronomers Frank Watson Dyson and Arthur Stanley Eddington returned to the problem of Mercury to find proof of general relativity. Their observations were widely heralded for confirming Einstein's work and for explaining the procession of Mercury. Thereafter, the search for a "Planet X" focused on the outer bounds of the solar system, and eventually peaked with the discovery of Pluto in 1930.
+
+{% include feature/image.html objectid="vul039" width="25" %}
+
 
 ## The Afterlives of Scientific Ideas
 
