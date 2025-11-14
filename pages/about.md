@@ -20,7 +20,7 @@ For decades after each eclipse brought out Vulcan-spotters with varying results.
 
 During a 1919 eclipse, the British astronomers Frank Watson Dyson and Arthur Stanley Eddington found proof of general relativity: starlight was shown to bend under the sun's gravity. Their observations were widely heralded for confirming Einstein's work and for explaining the apparent orbit of Mercury. The question settled, the scientific search for a new planet focused on the outer bounds of the solar system, and eventually peaked with the discovery of Pluto in 1930.
 
-{% include feature/image.html objectid="vul039" width="25" %}
+{% include feature/image.html objectid="vul031" width="25" %}
 
 ## The Afterlives of Scientific Ideas
 
@@ -30,7 +30,7 @@ This collection was organized under the philosophy that the *public understandin
 
 Vulcan, the planet that never was, takes on many guises in this library. It was modernity itself, and it was a Victorian mistake. It was the clash of empiricism and idealism. A mathematical marvel and a pernicious waste of effort. Vulcan was at once a symbol of hope, failure, and success. I invite you to consider these lenses as you peruse this digital library. 
 
-{% include feature/image.html objectid="vul015" width="50" %}
+{% include feature/image.html objectid="vul007" width="50" %}
 
 ## About This Collection
 
