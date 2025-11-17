@@ -16,13 +16,13 @@ Much like the present, the 19th century audiences of science communication could
 
 The primary audience of most scientific and philosophical writing are other scholars, and these works (primarily journal articles) assume of the reader a high degree of familiarity with existing literature within the field. 
 
-{% include feature/button.html text="See all ACADEMIC works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#academic" color="success" size="lg" centered="true" %}
+{% include feature/button.html text="See all academic works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#academic" color="success" centered="true" %}
 
 ### Student
 
 Most academic texts are written to express new information, but works for student audiences introduce the established elements, methods, and questions of a field. Student texts are specifically meant to enculturate a younger generation of scholars into an existing conversation.
 
-{% include feature/button.html text="See all STUDENT works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#student" color="success" size="lg" centered="true" %}
+{% include feature/button.html text="See all student works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#student" color="success" centered="true" %}
 
 ### Popular
 
@@ -30,13 +30,13 @@ The authors of popular science tend to report on what another has accomplished o
 
 As remains true today, popular science typically considers a limited range of scientific questions. In the context of 19th century astronomy, these topics included the discovery of new asteroids, eclipses, the possibility of life on another planet, and the growing material divide between amateur and professional stargazers.
 
-{% include feature/button.html text="See all POPULAR works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#popular" color="success" size="lg" centered="true" %}
+{% include feature/button.html text="See all popular works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#popular" color="success" centered="true" %}
 
 ### Esoteric
 
 A less widely acknowledged audience of science are seekers and practitioners of western esoteric traditions. Like scholarship, esoteric works often rely on dense references and a culture of initiation. The texts marked *esoteric* in this collection are primarily astrological. Esoteric practitioners have had a long and consistent interest in science and scholarship. While the Vulcan hypothesis was current (and for a little while after as the [timeline](https://kleidouxos.github.io/vulcan/timeline.html) shows, the inclusion of the planet in astrological texts may have been read by esoteric audiences as a distinction from the repackaged and hackneyed.
 
-{% include feature/button.html text="See all ESOTERIC works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#esoteric" color="success" size="lg" centered="true" %}
+{% include feature/button.html text="See all esoteric works in the collection." link="https://kleidouxos.github.io/vulcan/browse.html#esoteric" color="success" centered="true" %}
 
 ## Notes
 
